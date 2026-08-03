@@ -1,0 +1,2 @@
+# handy-cli
+fastapi project
